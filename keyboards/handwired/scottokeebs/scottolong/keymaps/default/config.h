@@ -20,4 +20,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // Define options
 #define TAPPING_TERM 135
 #define PERMISSIVE_HOLD
-#define TAPPING_TERM_PER_KEY
+
+// Vial
+#define VIAL_KEYBOARD_UID {0xB0, 0xAB, 0x4C, 0xD9, 0x9E, 0xBD, 0x23, 0xF3}
+#define VIAL_UNLOCK_COMBO_ROWS { 3, 3 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 9 }
